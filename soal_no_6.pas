@@ -9,4 +9,6 @@ begin
 
     x := x div x;
 
+    // berapa nilai variabel x?
+
 end.
